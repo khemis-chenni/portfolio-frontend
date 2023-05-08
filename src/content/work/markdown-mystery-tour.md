@@ -1,14 +1,15 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
+title: WebLopper
+publishDate: 2023-05-08 04:51:00
 img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Logo WebLopper
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Vous cherchez une formation dans le domaine du développement Web & Mobile Front-End/Back-End ? WebLopper peut être votre solution !
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Front-End
+  - Back-End
+  - Web
+  - Mobile
 ---
 
 ## Level-two heading
